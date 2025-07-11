@@ -107,7 +107,7 @@ const styles = {
     fontWeight: "bold",
     textAlign:"center",
     maxWidth:"80%",
-    padding:"0px 50px"
+    padding:"0px 300px"
   },
   visimisi:{
     display:"flex",
