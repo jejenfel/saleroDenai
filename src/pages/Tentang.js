@@ -82,7 +82,7 @@ const styles = {
   },
   imageBg: {
     width: "100%",
-    height: "100%",
+    height: "500px",
     objectFit: "cover",
     filter: "brightness(1)",
     color:"#FAC400",
